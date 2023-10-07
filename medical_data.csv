@@ -1,0 +1,101 @@
+﻿age,gender,symptom_1,symptom_2,symptom_3,blood_pressure,blood_sugar,cholesterol,diagnosis
+35,Male,Fever,Cough,Headache,120/80,0,0,Flu
+28,Female,Fatigue,Headache,Dizziness,110/70,1,1,Migraine
+52,Male,Nausea,Vomiting,Diarrhea,130/90,0,1,Gastroenteritis
+68,Female,Chest pain,Shortness of breath,N/A,140/95,1,1,Heart disease
+43,Male,Rash,Itching,Swelling,115/75,0,0,Allergic reaction
+31,Female,Sore throat,Fever,Fatigue,125/80,1,0,Common cold
+49,Male,Dizziness,Nausea,Headache,135/85,1,0,Vertigo
+56,Female,Abdominal pain,Nausea,Vomiting,130/85,0,1,Gastritis
+60,Male,Fatigue,Joint pain,Muscle pain,150/100,1,1,Hypertension
+37,Female,Headache,Nausea,Vomiting,120/80,0,0,Migraine
+45,Male,Fatigue,Chest pain,Shortness of breath,140/90,1,1,Coronary artery disease
+22,Female,Joint pain,Muscle pain,N/A,115/75,0,0,Arthritis
+76,Female,Dizziness,Nausea,Vomiting,130/80,0,1,Vertigo
+39,Male,Fatigue,Headache,Sore throat,125/85,1,0,Common cold
+47,Female,Abdominal pain,Nausea,Diarrhea,135/90,0,1,Gastroenteritis
+59,Male,Chest pain,Shortness of breath,N/A,140/95,1,1,Heart disease
+26,Female,Sore throat,Cough,Headache,120/80,0,0,Flu
+42,Male,Rash,Itching,Swelling,115/75,0,0,Allergic reaction
+50,Female,Nausea,Vomiting,Diarrhea,130/90,0,1,Gastroenteritis
+65,Male,Chest pain,Shortness of breath,N/A,140/95,1,1,Heart
+35,Male,Fever,Cough,Headache,120/80,0,0,Flu
+28,Female,Fatigue,Headache,Dizziness,110/70,1,1,Migraine
+52,Male,Nausea,Vomiting,Diarrhea,130/90,0,1,Gastroenteritis
+68,Female,Chest pain,Shortness of breath,N/A,140/95,1,1,Heart disease
+43,Male,Rash,Itching,Swelling,115/75,0,0,Allergic reaction
+31,Female,Sore throat,Fever,Fatigue,125/80,1,0,Common cold
+49,Male,Dizziness,Nausea,Headache,135/85,1,0,Vertigo
+56,Female,Abdominal pain,Nausea,Vomiting,130/85,0,1,Gastritis
+60,Male,Fatigue,Joint pain,Muscle pain,150/100,1,1,Hypertension
+37,Female,Headache,Nausea,Vomiting,120/80,0,0,Migraine
+45,Male,Fatigue,Chest pain,Shortness of breath,140/90,1,1,Coronary artery disease
+22,Female,Joint pain,Muscle pain,N/A,115/75,0,0,Arthritis
+76,Female,Dizziness,Nausea,Vomiting,130/80,0,1,Flu
+39,Male,Fatigue,Headache,Sore throat,125/85,1,0,Common cold
+47,Female,Abdominal pain,Nausea,Diarrhea,135/90,0,1,Gastroenteritis
+59,Male,Chest pain,Shortness of breath,N/A,140/95,1,1,Heart disease
+26,Female,Sore throat,Cough,Headache,120/80,0,0,Flu
+42,Male,Rash,Itching,Swelling,115/75,0,0,Allergic reaction
+50,Female,Nausea,Vomiting,Diarrhea,130/90,0,1,Gastroenteritis
+65,Male,Chest pain,Shortness of breath,N/A,140/95,1,1,Heart
+35,Male,Fever,Cough,Headache,120/80,0,0,Flu
+28,Female,Fatigue,Headache,Dizziness,110/70,1,1,Migraine
+52,Male,Nausea,Vomiting,Diarrhea,130/90,0,1,Gastroenteritis
+68,Female,Chest pain,Shortness of breath,N/A,140/95,1,1,Heart disease
+43,Male,Rash,Itching,Swelling,115/75,0,0,Allergic reaction
+31,Female,Sore throat,Fever,Fatigue,125/80,1,0,Common cold
+49,Male,Dizziness,Nausea,Headache,135/85,1,0,Vertigo
+56,Female,Abdominal pain,Nausea,Vomiting,130/85,0,1,Gastritis
+60,Male,Fatigue,Joint pain,Muscle pain,150/100,1,1,Hypertension
+37,Female,Headache,Nausea,Vomiting,120/80,0,0,Migraine
+45,Male,Fatigue,Chest pain,Shortness of breath,140/90,1,1,Coronary artery disease
+22,Female,Joint pain,Muscle pain,N/A,115/75,0,0,Arthritis
+76,Female,Dizziness,Nausea,Vomiting,130/80,0,1,Vertigo
+39,Male,Fatigue,Headache,Sore throat,125/85,1,0,Common cold
+47,Female,Abdominal pain,Nausea,Diarrhea,135/90,0,1,Gastroenteritis
+59,Male,Chest pain,Shortness of breath,N/A,140/95,1,1,Heart disease
+26,Female,Sore throat,Cough,Headache,120/80,0,0,Flu
+42,Male,Rash,Itching,Swelling,115/75,0,0,Allergic reaction
+50,Female,Nausea,Vomiting,Diarrhea,130/90,0,1,Gastroenteritis
+65,Male,Chest pain,Shortness of breath,N/A,140/95,1,1,Heart
+35,Male,Fever,Cough,Headache,120/80,0,0,Flu
+28,Female,Fatigue,Headache,Dizziness,110/70,1,1,Migraine
+52,Male,Nausea,Vomiting,Diarrhea,130/90,0,1,Gastroenteritis
+68,Female,Chest pain,Shortness of breath,N/A,140/95,1,1,Heart disease
+43,Male,Rash,Itching,Swelling,115/75,0,0,Allergic reaction
+31,Female,Sore throat,Fever,Fatigue,125/80,1,0,Common cold
+49,Male,Dizziness,Nausea,Headache,135/85,1,0,Vertigo
+56,Female,Abdominal pain,Nausea,Vomiting,130/85,0,1,Gastritis
+60,Male,Fatigue,Joint pain,Muscle pain,150/100,1,1,Hypertension
+37,Female,Headache,Nausea,Vomiting,120/80,0,0,Migraine
+45,Male,Fatigue,Chest pain,Shortness of breath,140/90,1,1,Coronary artery disease
+22,Female,Joint pain,Muscle pain,N/A,115/75,0,0,Arthritis
+76,Female,Dizziness,Nausea,Vomiting,130/80,0,1,Vertigo
+39,Male,Fatigue,Headache,Sore throat,125/85,1,0,Common cold
+47,Female,Abdominal pain,Nausea,Diarrhea,135/90,0,1,Gastroenteritis
+59,Male,Chest pain,Shortness of breath,N/A,140/95,1,1,Heart disease
+26,Female,Sore throat,Cough,Headache,120/80,0,0,Flu
+42,Male,Rash,Itching,Swelling,115/75,0,0,Allergic reaction
+50,Female,Nausea,Vomiting,Diarrhea,130/90,0,1,Gastroenteritis
+65,Male,Chest pain,Shortness of breath,N/A,140/95,1,1,Heart
+35,Male,Fever,Cough,Headache,120/80,0,0,Flu
+28,Female,Fatigue,Headache,Dizziness,110/70,1,1,Flu
+52,Male,Nausea,Vomiting,Diarrhea,130/90,0,1,Heart disease
+68,Female,Chest pain,Shortness of breath,N/A,140/95,1,1,Heart disease
+43,Male,Rash,Itching,Swelling,115/75,0,0,Flu
+31,Female,Sore throat,Fever,Fatigue,125/80,1,0,Common cold
+49,Male,Dizziness,Nausea,Headache,135/85,1,0,Flu
+56,Female,Abdominal pain,Nausea,Vomiting,130/85,0,1,Gastritis
+60,Male,Fatigue,Joint pain,Muscle pain,150/100,1,1,Hypertension
+37,Female,Headache,Nausea,Vomiting,120/80,0,0,Flu
+45,Male,Fatigue,Chest pain,Shortness of breath,140/90,1,1,Coronary artery disease
+22,Female,Joint pain,Muscle pain,N/A,115/75,0,0,Arthritis
+76,Female,Dizziness,Nausea,Vomiting,130/80,0,1,Vertigo
+39,Male,Fatigue,Headache,Sore throat,125/85,1,0,Common cold
+47,Female,Abdominal pain,Nausea,Diarrhea,135/90,0,1,Gastroenteritis
+59,Male,Chest pain,Shortness of breath,N/A,140/95,1,1,Heart disease
+26,Female,Sore throat,Cough,Headache,120/80,0,0,Flu
+42,Male,Rash,Itching,Swelling,115/75,0,0,Allergic reaction
+50,Female,Nausea,Vomiting,Diarrhea,130/90,0,1,Gastroenteritis
+65,Male,Chest pain,Shortness of breath,N/A,140/95,1,1,Heart
